@@ -3028,6 +3028,10 @@ saattaa aiheuttaa vierityspalkin katoamisen.</translation>
         <translation type="unfinished">Chat-
 loki:</translation>
     </message>
+    <message>
+        <source>Hide TRIfA suffix</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Widget</name>

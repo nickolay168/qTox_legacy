@@ -3036,6 +3036,10 @@ gabalo dydis</translation>
         <translation type="unfinished">Pokalbių
 žurnalas:</translation>
     </message>
+    <message>
+        <source>Hide TRIfA suffix</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Widget</name>

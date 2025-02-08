@@ -3014,6 +3014,10 @@ discussion</translation>
 de discus
 sion&#xa0;:</translation>
     </message>
+    <message>
+        <source>Hide TRIfA suffix</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Widget</name>
